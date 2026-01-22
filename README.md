@@ -1,1 +1,1 @@
-Exercice de déploiement proxmox ou docker
+Exercice de déploiement docker
